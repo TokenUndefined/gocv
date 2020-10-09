@@ -4,7 +4,7 @@ GoCV0.13.0，用于私有go.mod
 
 [![GoCV](https://raw.githubusercontent.com/hybridgroup/gocv/master/images/gocvlogo.jpg)](http://gocv.io/)
 
-[![GoDoc](https://godoc.org/gocv.io/x/gocv?status.svg)](https://godoc.org/github.com/hybridgroup/gocv)
+[![GoDoc](https://godoc.org/github.com/TokenUndefined/gocv?status.svg)](https://godoc.org/github.com/hybridgroup/gocv)
 [![Travis Build Status](https://travis-ci.org/hybridgroup/gocv.svg?branch=dev)](https://travis-ci.org/hybridgroup/gocv)
 [![AppVeyor Build status](https://ci.appveyor.com/api/projects/status/9asd5foet54ru69q/branch/dev?svg=true)](https://ci.appveyor.com/project/deadprogram/gocv/branch/dev)
 [![codecov](https://codecov.io/gh/hybridgroup/gocv/branch/dev/graph/badge.svg)](https://codecov.io/gh/hybridgroup/gocv)
@@ -27,7 +27,7 @@ This example opens a video capture device using device "0", reads frames, and sh
 package main
 
 import (
-	"gocv.io/x/gocv"
+	"github.com/TokenUndefined/gocv"
 )
 
 func main() {
@@ -56,7 +56,7 @@ import (
 	"fmt"
 	"image/color"
 
-	"gocv.io/x/gocv"
+	"github.com/TokenUndefined/gocv"
 )
 
 func main() {
@@ -125,7 +125,7 @@ There are examples in the [cmd directory](./cmd) of this repo in the form of var
 To install GoCV, run the following command:
 
 ```
-go get -u -d gocv.io/x/gocv
+go get -u -d github.com/TokenUndefined/gocv
 ```
 
 To run code that uses the GoCV package, you must also install OpenCV 3.4.1 on your system. Here are instructions for Ubuntu, OS X, and Windows.
@@ -140,7 +140,7 @@ You can use `make` to install OpenCV 3.4.1 with the handy `Makefile` included wi
 
 First, you need to change the current directory to the location of the GoCV repo, so you can access the `Makefile`:
 
-	cd $GOPATH/src/gocv.io/x/gocv
+	cd $GOPATH/src/github.com/TokenUndefined/gocv
 
 Next, you need to update the system, and install any required packages:
 
@@ -170,7 +170,7 @@ To verify your installation you can run one of the included examples.
 
 First, change the current directory to the location of the GoCV repo:
 
-	cd $GOPATH/src/gocv.io/x/gocv
+	cd $GOPATH/src/github.com/TokenUndefined/gocv
 
 Now you should be able to build or run any of the examples:
 
@@ -183,7 +183,7 @@ The version program should output the following:
 
 If you are not modifying gocv source, compile gocv to a static library, to significantly decrease your build times:
 
-	go install gocv.io/x/gocv
+	go install github.com/TokenUndefined/gocv
 
 ### Custom Environment
 
@@ -216,7 +216,7 @@ To verify your installation you can run one of the included examples.
 
 First, change the current directory to the location of the GoCV repo:
 
-	cd $GOPATH/src/gocv.io/x/gocv
+	cd $GOPATH/src/github.com/TokenUndefined/gocv
 
 Now you should be able to build or run any of the examples:
 
@@ -229,7 +229,7 @@ The version program should output the following:
 
 If you are not modifying gocv source, compile gocv to a static library, to significantly decrease your build times:
 
-	go install gocv.io/x/gocv
+	go install github.com/TokenUndefined/gocv
 
 ### Custom Environment
 
@@ -317,7 +317,7 @@ To verify your installation you can run one of the included examples.
 
 First, change the current directory to the location of the GoCV repo:
 
-	cd %GOPATH%/src/gocv.io/x/gocv
+	cd %GOPATH%/src/github.com/TokenUndefined/gocv
 
 Now you should be able to build or run any of the command examples:
 
@@ -330,7 +330,7 @@ The version program should output the following:
 
 If you are not modifying gocv source, compile gocv to a static library, to significantly decrease your build times:
 
-	go install gocv.io/x/gocv
+	go install github.com/TokenUndefined/gocv
 
 ### Custom Environment
 

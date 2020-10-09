@@ -2,7 +2,7 @@
 
 The [Intel OpenVINO toolkit](https://software.intel.com/en-us/openvino-toolkit) is a set of tools and libraries for computer vision applications, that uses computer vision and imaging algorithms developed at Intel. It also includes a complete build of OpenCV.
 
-GoCV support for the Intel OpenVINO Photography Vision Library (PVL) which can be found in the "gocv.io/x/gocv/openvino/pvl" package. Check out the README.md in the `pvl` directory for more information.
+GoCV support for the Intel OpenVINO Photography Vision Library (PVL) which can be found in the "github.com/TokenUndefined/gocv/openvino/pvl" package. Check out the README.md in the `pvl` directory for more information.
 
 ## Installing Intel OpenVINO toolkit
 

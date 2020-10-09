@@ -2,7 +2,7 @@
 
 The Photography Vision Library (PVL) is a set of extensions to OpenCV that is installed with the Intel OpenVINO toolkit. It uses computer vision and imaging algorithms developed at Intel.
 
-GoCV support for the PVL can be found here in the "gocv.io/x/gocv/openvino/pvl" package.
+GoCV support for the PVL can be found here in the "github.com/TokenUndefined/gocv/openvino/pvl" package.
 
 ## How to use
 
@@ -13,8 +13,8 @@ import (
 	"fmt"
 	"image/color"
 
-	"gocv.io/x/gocv"
-	"gocv.io/x/gocv/openvino/pvl"
+	"github.com/TokenUndefined/gocv"
+	"github.com/TokenUndefined/gocv/openvino/pvl"
 )
 
 func main() {

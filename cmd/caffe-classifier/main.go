@@ -28,7 +28,7 @@ import (
 	"os"
 	"strconv"
 
-	"gocv.io/x/gocv"
+	"github.com/TokenUndefined/gocv"
 )
 
 // readDescriptions reads the descriptions from a file

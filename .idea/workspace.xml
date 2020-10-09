@@ -1,37 +1,195 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fbb7b732-0046-4e3b-9ba6-eb1b213912f5" name="Default Changelist" comment="" />
+    <list default="true" id="fbb7b732-0046-4e3b-9ba6-eb1b213912f5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.astylerc" beforeDir="false" afterPath="$PROJECT_DIR$/.astylerc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gocv.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gocv.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/CONTRIBUTING.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ROADMAP.md" beforeDir="false" afterPath="$PROJECT_DIR$/ROADMAP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appveyor.yml" beforeDir="false" afterPath="$PROJECT_DIR$/appveyor.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appveyor_build_opencv.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/appveyor_build_opencv.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cgo.go" beforeDir="false" afterPath="$PROJECT_DIR$/cgo.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/basic-drawing/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/basic-drawing/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/caffe-classifier/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/caffe-classifier/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/captest/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/captest/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/capwindow/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/capwindow/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/counter/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/counter/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/faceblur/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/faceblur/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/facedetect/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/facedetect/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/find-circles/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/find-circles/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/hand-gestures/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/hand-gestures/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/img-similarity/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/img-similarity/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/mjpeg-streamer/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/mjpeg-streamer/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/motion-detect/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/motion-detect/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/openvino/ie/classifier/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/openvino/ie/classifier/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/openvino/ie/version/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/openvino/ie/version/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/openvino/pvl/faceblur/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/openvino/pvl/faceblur/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/openvino/pvl/facerecognizer/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/openvino/pvl/facerecognizer/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/openvino/pvl/smiledetect/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/openvino/pvl/smiledetect/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/pose/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/pose/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/saveimage/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/saveimage/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/savevideo/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/savevideo/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/showimage/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/showimage/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/ssd-facedetect/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/ssd-facedetect/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/tf-classifier/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/tf-classifier/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/tracking/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/tracking/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/version/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/version/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/att_faces/README" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/att_faces/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/att_faces/s1/1.pgm" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/att_faces/s1/1.pgm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/att_faces/s1/2.pgm" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/att_faces/s1/2.pgm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/att_faces/s1/3.pgm" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/att_faces/s1/3.pgm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/att_faces/s1/4.pgm" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/att_faces/s1/4.pgm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/att_faces/s2/1.pgm" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/att_faces/s2/1.pgm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/att_faces/s2/2.pgm" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/att_faces/s2/2.pgm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/att_faces/s2/3.pgm" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/att_faces/s2/3.pgm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/att_faces/s2/4.pgm" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/att_faces/s2/4.pgm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/att_faces/s2/5.pgm" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/att_faces/s2/5.pgm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/att_faces/s3/1.pgm" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/att_faces/s3/1.pgm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/att_faces/s3/10.pgm" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/att_faces/s3/10.pgm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/att_faces/s3/2.pgm" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/att_faces/s3/2.pgm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/att_faces/s3/3.pgm" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/att_faces/s3/3.pgm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/att_faces/s3/4.pgm" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/att_faces/s3/4.pgm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/att_faces/s3/5.pgm" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/att_faces/s3/5.pgm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/att_faces/s3/6.pgm" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/att_faces/s3/6.pgm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/att_faces/s3/7.pgm" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/att_faces/s3/7.pgm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/att_faces/s3/8.pgm" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/att_faces/s3/8.pgm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/att_faces/s3/9.pgm" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/att_faces/s3/9.pgm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/cgo.go" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/cgo.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/contrib.go" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/contrib.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/face.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/face.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/face.go" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/face.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/face.h" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/face.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/face_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/face_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/img_hash.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/img_hash.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/img_hash.go" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/img_hash.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/img_hash.h" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/img_hash.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/img_hash_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/img_hash_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/tracking.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/tracking.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/tracking.go" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/tracking.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/tracking.h" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/tracking.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/tracking_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/tracking_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/xfeatures2d.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/xfeatures2d.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/xfeatures2d.go" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/xfeatures2d.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/xfeatures2d.h" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/xfeatures2d.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrib/xfeatures2d_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/contrib/xfeatures2d_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/core.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core.go" beforeDir="false" afterPath="$PROJECT_DIR$/core.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core.h" beforeDir="false" afterPath="$PROJECT_DIR$/core.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/core_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/haarcascade_frontalface_default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data/haarcascade_frontalface_default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dnn.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/dnn.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dnn.go" beforeDir="false" afterPath="$PROJECT_DIR$/dnn.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dnn.h" beforeDir="false" afterPath="$PROJECT_DIR$/dnn.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dnn_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/dnn_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/env.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env.sh" beforeDir="false" afterPath="$PROJECT_DIR$/env.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features2d.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/features2d.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features2d.go" beforeDir="false" afterPath="$PROJECT_DIR$/features2d.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features2d.h" beforeDir="false" afterPath="$PROJECT_DIR$/features2d.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features2d_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/features2d_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gocv.go" beforeDir="false" afterPath="$PROJECT_DIR$/gocv.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helpers_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/helpers_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/highgui.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/highgui.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/highgui.go" beforeDir="false" afterPath="$PROJECT_DIR$/highgui.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/highgui_gocv.h" beforeDir="false" afterPath="$PROJECT_DIR$/highgui_gocv.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/highgui_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/highgui_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/circles.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/circles.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/face-detect.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/face-detect.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/face.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/face.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gocvlogo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gocvlogo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lut.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/lut.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sift_descriptor.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/sift_descriptor.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/small.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/images/small.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/space_shuttle.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/space_shuttle.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/toy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/toy.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgcodecs.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/imgcodecs.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgcodecs.go" beforeDir="false" afterPath="$PROJECT_DIR$/imgcodecs.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgcodecs.h" beforeDir="false" afterPath="$PROJECT_DIR$/imgcodecs.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgcodecs_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/imgcodecs_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgproc.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/imgproc.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgproc.go" beforeDir="false" afterPath="$PROJECT_DIR$/imgproc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgproc.h" beforeDir="false" afterPath="$PROJECT_DIR$/imgproc.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgproc_colorcodes.go" beforeDir="false" afterPath="$PROJECT_DIR$/imgproc_colorcodes.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgproc_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/imgproc_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objdetect.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/objdetect.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objdetect.go" beforeDir="false" afterPath="$PROJECT_DIR$/objdetect.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objdetect.h" beforeDir="false" afterPath="$PROJECT_DIR$/objdetect.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objdetect_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/objdetect_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openvino/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/openvino/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openvino/env.sh" beforeDir="false" afterPath="$PROJECT_DIR$/openvino/env.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openvino/ie/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/openvino/ie/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openvino/ie/ie.go" beforeDir="false" afterPath="$PROJECT_DIR$/openvino/ie/ie.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openvino/ie/inference_engine.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/openvino/ie/inference_engine.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openvino/ie/inference_engine.go" beforeDir="false" afterPath="$PROJECT_DIR$/openvino/ie/inference_engine.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openvino/ie/inference_engine.h" beforeDir="false" afterPath="$PROJECT_DIR$/openvino/ie/inference_engine.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openvino/ie/inference_engine_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/openvino/ie/inference_engine_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openvino/openvino.go" beforeDir="false" afterPath="$PROJECT_DIR$/openvino/openvino.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openvino/pvl/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/openvino/pvl/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openvino/pvl/face.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/openvino/pvl/face.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openvino/pvl/face.go" beforeDir="false" afterPath="$PROJECT_DIR$/openvino/pvl/face.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openvino/pvl/face.h" beforeDir="false" afterPath="$PROJECT_DIR$/openvino/pvl/face.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openvino/pvl/face_detector.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/openvino/pvl/face_detector.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openvino/pvl/face_detector.go" beforeDir="false" afterPath="$PROJECT_DIR$/openvino/pvl/face_detector.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openvino/pvl/face_detector.h" beforeDir="false" afterPath="$PROJECT_DIR$/openvino/pvl/face_detector.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openvino/pvl/face_recognizer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/openvino/pvl/face_recognizer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openvino/pvl/face_recognizer.go" beforeDir="false" afterPath="$PROJECT_DIR$/openvino/pvl/face_recognizer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openvino/pvl/face_recognizer.h" beforeDir="false" afterPath="$PROJECT_DIR$/openvino/pvl/face_recognizer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openvino/pvl/pvl.go" beforeDir="false" afterPath="$PROJECT_DIR$/openvino/pvl/pvl.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openvino/pvl/pvl_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/openvino/pvl/pvl_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travis_build_opencv.sh" beforeDir="false" afterPath="$PROJECT_DIR$/travis_build_opencv.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/version.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version.go" beforeDir="false" afterPath="$PROJECT_DIR$/version.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version.h" beforeDir="false" afterPath="$PROJECT_DIR$/version.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/version_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/video.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video.go" beforeDir="false" afterPath="$PROJECT_DIR$/video.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video.h" beforeDir="false" afterPath="$PROJECT_DIR$/video.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/video_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videoio.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/videoio.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videoio.go" beforeDir="false" afterPath="$PROJECT_DIR$/videoio.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videoio.h" beforeDir="false" afterPath="$PROJECT_DIR$/videoio.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videoio_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/videoio_test.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZL9aCFwKTeKdyliKCESwbgNhJZ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="800" y="349" key="FileChooserDialogImpl" timestamp="1585017436625">
+    <state x="662" y="252" width="596" height="594" key="find.popup" timestamp="1602239570391">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="800" y="349" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585017436625" />
-    <state x="696" y="327" width="647" height="534" key="find.popup" timestamp="1585017237082">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="696" y="327" width="647" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585017237082" />
+    <state x="662" y="252" width="596" height="594" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602239570391" />
   </component>
 </project>

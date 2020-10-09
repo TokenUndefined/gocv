@@ -3,7 +3,7 @@ package contrib
 import (
 	"testing"
 
-	"gocv.io/x/gocv"
+	"github.com/TokenUndefined/gocv"
 )
 
 func TestSIFT(t *testing.T) {

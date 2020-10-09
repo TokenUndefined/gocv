@@ -2,7 +2,7 @@
 
 The OpenCV Contrib library contains experimental or non-free (aka patented) algorithms.
 
-GoCV support for OpenCV Contrib can be found here in the "gocv.io/x/gocv/contrib" package.
+GoCV support for OpenCV Contrib can be found here in the "github.com/TokenUndefined/gocv/contrib" package.
 
 For more information about OpenCV Contrib, please go to:
 
@@ -16,8 +16,8 @@ First, you must include the `contrib` subpackage:
 
 ```go
 import (
-    "gocv.io/x/gocv"
-    "gocv.io/x/gocv/contrib"
+    "github.com/TokenUndefined/gocv"
+    "github.com/TokenUndefined/gocv/contrib"
 )
 ```
 

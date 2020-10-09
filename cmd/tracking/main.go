@@ -24,8 +24,8 @@ import (
 	"os"
 	"strconv"
 
-	"gocv.io/x/gocv"
-	"gocv.io/x/gocv/contrib"
+	"github.com/TokenUndefined/gocv"
+	"github.com/TokenUndefined/gocv/contrib"
 )
 
 func main() {

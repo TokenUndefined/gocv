@@ -10,7 +10,7 @@ import (
 	"reflect"
 	"unsafe"
 
-	"gocv.io/x/gocv"
+	"github.com/TokenUndefined/gocv"
 )
 
 // SIFT is a wrapper around the cv::SIFT algorithm.

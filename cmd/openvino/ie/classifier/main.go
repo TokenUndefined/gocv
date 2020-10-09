@@ -16,8 +16,8 @@ import (
 	"os"
 	"strconv"
 
-	"gocv.io/x/gocv"
-	"gocv.io/x/gocv/openvino/ie"
+	"github.com/TokenUndefined/gocv"
+	"github.com/TokenUndefined/gocv/openvino/ie"
 )
 
 // readDescriptions reads the descriptions from a file
