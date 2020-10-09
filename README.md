@@ -1,4 +1,6 @@
+
 # GoCV
+GoCV0.13.0，用于私有go.mod
 
 [![GoCV](https://raw.githubusercontent.com/hybridgroup/gocv/master/images/gocvlogo.jpg)](http://gocv.io/)
 
